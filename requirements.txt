@@ -1,0 +1,8 @@
+pandas
+numpy
+implicit
+lightfm
+xgboost
+lightgbm
+catboost
+pyarrow
